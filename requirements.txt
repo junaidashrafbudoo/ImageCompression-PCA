@@ -1,0 +1,7 @@
+setuptools
+streamlit
+numpy
+Pillow
+matplotlib
+opencv-python-headless
+scikit-learn
